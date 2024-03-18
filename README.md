@@ -1,7 +1,7 @@
-# Political Profile Core Values
+# Political Profile: Core Values
 
 ## Description:
-Core Values or political core values are the core values of a political candidate. The website offers 10 selections of the core values of the political candidate. The creative designer for the 10 core values designs is Victor Sifiso Xaba.
+Core Values or political profile are the core values of a political candidate. The website offers 10 selections of the core values of the political candidate. The creative designer for the 10 core values designs is Victor Sifiso Xaba.
 
 ## Table of Contents:
 - [Installation](#installation)
@@ -29,4 +29,4 @@ To view the Core Values locally, follow these steps:
 - Core values designs by [Victor Sifiso Xaba](https://www.linkedin.com/in/victor-sifiso-xaba)
 
 ## GitHub Repository:
-[Core Values Repository](https://github.com/victor-sifiso-xaba/politicalprofile)
+[Political Profile Repository](https://github.com/victor-sifiso-xaba/politicalprofile)
